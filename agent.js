@@ -1,3 +1,5 @@
+// This loads all the env variables
+
 import 'dotenv/config';
 import { OpenAI } from 'openai';
 import axios from 'axios';
